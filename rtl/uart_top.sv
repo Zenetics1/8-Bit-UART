@@ -1,0 +1,1 @@
+/* Intergrate all modules(rx, tx, etc) into top module for final UART design */
